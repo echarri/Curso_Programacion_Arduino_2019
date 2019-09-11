@@ -8,11 +8,9 @@
 #include "ESP8266WiFi.h"
 
 //Archivo de contraseñas: añade un fichero secrets.h con este contenido
-//const char* ssid = "your-ssid";
-//const char* password = "your-password";
-//#include "secrets.h"
 const char* ssid = "CTLR";
 const char* password = "cntrTcnlgc012";
+//#include <secrets.h>
 
 //Librería Pantalla
 #include <Wire.h>
